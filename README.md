@@ -38,7 +38,7 @@
 - <h3>Scripting</h3>
 
   - <b>Bash</b>
-    - [Automate airmon-ng](https://github.com/bgtestpage/Scripting/Bash/auto-airmon-ng)
+    - [Automate airmon-ng](https://github.com/bgtestpage/Automate-Airmon-ng)
       
   - <b>Python</b>
     - <p>(in progress)</p>
