@@ -13,7 +13,7 @@
   simply needs to be finalized, and I will upload it here.</p>
 
   - <b>More to come: work in progress</b>
-  - [Home Lab Phase 1](https://github.com/bgtestpage/Homelab/Phase1)
+  - [Home Lab Phase 1](https://github.com/bgtestpage/Home-Lab-Phase1)
   - [Home Lab Phase 2](https://github.com/bgtestpage/Homelab/Phase2)
   - [Home Lab Phase 3](https://github.com/bgtestpage/Homelab/Phase3)
   - [Home Lab Phase 4](https://github.com/bgtestpage/Homelab/Phase4)
