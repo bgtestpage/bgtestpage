@@ -3,14 +3,14 @@
 <h2> 💻 Cybersecurity Projects  💻 </h2>
 
 - <h3>Home Network and Cybersecurity Lab</h3>
-  <p>This is a small lab that has given me hands on experience with many topics. These include subnetting, VLANs, firewall rules, IP assignments,
-  DHCP, DNS, Virtualization, vulnerability scanning, host and network hardening to name a few. It has been a process, but it has taught me many
-  valuable lessons. I have essentially recreated much of the virtual environment and machines that exist in our University lab. These include Kali
-  Linux, Metasploit2, OWASP (Open Worldwide Application Security Project), WebGoat, and Damn Vulnerable Web App. VMs that are meant to be hacked. This
-  provides a safe environment to learn about security, vulnerabilities, and exploits. I will be able to use and upscale this rich learning environment
-  long after I don't access to the school's resources. The best part is that I can say I have designed, constructed, and configured it all from the ground up.
-  It is humble, but it is my first lab, and I am proud of the work I've done. It is still a work in progress, but a lot of the work is done and the documentation
-  needs to be finalized and I will upload it here.</p>
+  <p>This is a small lab with a simple design. I have gained hands-on experience with subnetting, VLANs, firewall rules, IP assignments,
+  DHCP, DNS, virtualization, vulnerability scanning, and host/network hardening to name a few. It has been an intensive (sometimes frustrating) process, but it has taught me many
+  valuable lessons. I have essentially recreated much of the virtual environment and machines that exist in my University's lab. These include Kali
+  Linux, Metasploitable2, OWASP (Open Worldwide Application Security Project), WebGoat, and Damn Vulnerable Web App. VMs that are meant to be hacked. This
+  provides a safe environment to learn about security, vulnerabilities, exploits, and carry out controlled penetration testing. I will be able to use and upscale this rich learning environment
+  long after I graduate and don't have access to the school's resources. The best part is that I can say I have designed, constructed, and configured it all from the ground up.
+  It is a humble lab, but it is my first lab, and I am proud of the work I've done. It is still a work in progress, but the majority of the setup work is complete. The documentation
+  simply needs to be finalized, and I will upload it here.</p>
 
   - <b>More to come: work in progress</b>
   - [Home Lab Phase 1](https://github.com/bgtestpage/Homelab/Phase1)
