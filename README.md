@@ -15,7 +15,7 @@
   - <b>More to come: work in progress</b>
   - [Home Lab Phase 1](https://github.com/bgtestpage/Home-Lab-Phase-1)
   - [Home Lab Phase 2](https://github.com/bgtestpage/Home-Lab-Phase-2)
-  - [Home Lab Phase 3](https://github.com/bgtestpage/Homelab/Phase3)
+  - [Home Lab Phase 3](https://github.com/bgtestpage/Home-Lab-Phase-3)
   - [Home Lab Phase 4](https://github.com/bgtestpage/Homelab/Phase4)
     
 - <h3>Raspberry Pi Hacking Devices: Building and Testing<i> (For Ethical Hacking and Analysis)</h3></i>
