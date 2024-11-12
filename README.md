@@ -9,7 +9,7 @@ My aim is to enter the cybersecurity field as an Intern or Junior SOC analyst. I
 ## Skills
 | Skill                                    | Project                        |
 |------------------------------------------|--------------------------------|
-| Network Configuration and Virtualization |[**Home Cybersecurity Virtual Lab**](https://github.com/blaine-geiger/homelab)|
+| Network Configuration and Virtualization |[**Home Cybersecurity Virtual Lab**](https://github.com/bgtestpage/homelab)|
 | 
 |
 
