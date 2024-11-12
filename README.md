@@ -1,62 +1,92 @@
-# Hi, I'm BG! <br/><br/><a href="https://github.com/bgtestpage">Cybersecurity Graduate</a>, <a href="https://www.linkedin.com/in/blaine-geiger-999b81329/">Entry Level Cybersecurity Professional</a>
+# Hi, I'm Blaine
+<a href="https://www.linkedin.com/in/blaine-geiger-999b81329/" target="_blank"><img align="left" alt="blaine-geiger | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>  
 
-## 💻 Cybersecurity Projects  💻 
+I am a recent IT graduate with an educational focus on cybersecurity, and a deep interest in technology and inclination for problem solving.
 
-- ### Home Network and Cybersecurity Lab
-  <p>This is a small lab with a simple design. I have gained hands-on experience with subnetting, VLANs, firewall rules, IP assignments,
-  DHCP, DNS, virtualization, vulnerability scanning, and host/network hardening to name a few. It has been an intensive (sometimes frustrating) process, but it has taught me many
-  valuable lessons. I have essentially recreated much of the virtual environment and machines that exist in my University's lab. These include Kali
-  Linux, Metasploitable2, OWASP (Open Worldwide Application Security Project), WebGoat, and Damn Vulnerable Web App. VMs that are meant to be hacked. This
-  provides a safe environment to learn about security, vulnerabilities, exploits, and carry out controlled penetration testing. I will be able to use and upscale this rich learning environment
-  long after I graduate and don't have access to the school's resources. The best part is that I can say I have designed, constructed, and configured it all from the ground up.
-  It is a humble lab, but it is my first lab, and I am proud of the work I've done. It is still a work in progress, but the majority of the setup work is complete. The documentation
-  simply needs to be finalized, and I will upload it here.</p>
+## Objective  
+My aim is to enter the cybersecurity field as an Intern or Junior SOC analyst. I am eager to begin this journey and continue my development.
 
- #### More to come: work in progress
-  - [Home Lab Phase 1](https://github.com/bgtestpage/Home-Lab-Phase-1)
-  - [Home Lab Phase 2](https://github.com/bgtestpage/Home-Lab-Phase-2)
-  - [Home Lab Phase 3](https://github.com/bgtestpage/Home-Lab-Phase-3)
-  - [Home Lab Phase 4](https://github.com/bgtestpage/Home-Lab-Phase-4)
+## Skills
+| Skill                                    | Project                        |
+|------------------------------------------|--------------------------------|
+| Network Configuration and Virtualization |[**Home Cybersecurity Virtual Lab**](https://github.com/blaine-geiger/homelab)|
+| 
+|
+
+
+
+
+
+
+
+
+
+
+### Establish a server, integrate services, automate processes, and provide NAS functionality.
+#### Work in Progress: More to come
+
+<details>
+<summary>🔎Click to Reveal Essential Topics 🔍</summary>
+
+- Headless Ubuntu server configuration
+- Linux CLI and system study
+- Docker
+- docker-compose files
+- yaml and other config files
+- Developing network services browser based GUI
+
+</details>
+
+- [**Pi 5 Ubuntu Server**](https://github.com/blaine-geiger/Pi5-Ubuntu-Server) - Docker, Telegraf, InfluxDB, and Grafana
+- [**Home Network Dashboard**](https://github.com/blaine-geiger/home-network-dashboard) - Quick access links to frequently used network GUIs
+- **Firewall Logging** - Implement logging solutions to monitor firewall activities.
+- **Network Monitoring** - Utilize Prometheus and Grafana for real-time network monitoring and visualization.
+- **Lightweight SIEM** - Deploy a stack for a streamlined Security Information and Event Management solution.
+- **Alerting** - Set up fail2ban for proactive alerting and security against unauthorized access attempts.
+- **Automated Log Backups** - Implement automated processes for backing up logs regularly.
+- **Configuration Management** - Manage configurations for network devices to ensure consistency and compliance.
+
+&nbsp;
     
-- ### Raspberry Pi Hacking Devices: Building and Testing<i> (For Ethical Hacking and Analysis)</i>
-    #### These devices are already built: documentation pending
-  <ul>
-    <li>Pwnagotchi: WiFi Deauthenticator and Handshake Capture</li>
-    <li>P4wnP1 ALOA: Bad USB device</li>
-  </ul>
-  
-- ### Wi-Fi Hacking<i> (For Ethical Hacking and Analysis)</i>
-    #### The Wi-Fi adapter device has been configured and tested: documentation pending
-  <ul>
-    <li>Wireless Adapters and Kali Linux</li>
-    <li>Passive Sniffing: Airmon-ng</li>
-    <li>Capturing Handshakes: Airodump-ng</li>
-    <li>Wireshark Packet Analysis</li>
-    <li>Wi-Fi Access Point Password Cracking: Aircrack-ng</li>
-  </ul>
-    
-- ### Scripting
-    #### Bash
-    [Automate airmon-ng](https://github.com/bgtestpage/Automate-Airmon-ng)
+### Raspberry Pi Hacking Devices: Building and Testing<i> (For Ethical Hacking and Analysis)</i>
+  #### *Devices built: Documentation pending*
+  - [**Pwnagotchi**](https://github.com/blaine-geiger/Pwnagotchi) - Automated WiFi Deauthenticator & WPA Handshake Capture Device for WPA password cracking
+  - **P4wnP1 ALOA** - Flexible Bad USB for HID Keystroke Injection, Payload Delivery, Exfiltration, and MITM Attacks
 
-     #### Python</b>
-    (in progress)
+&nbsp;
+
+### Wi-Fi Hacking<i> (For Ethical Hacking and Analysis)</i>
+  #### *Wi-Fi adapter configured and tested: Documentation pending*
+- **Wireless Adapters with Kali Linux** - Using ALFA AWUS 036ACS
+- **Passive Sniffing** - Enabling monitor mode with `airmon-ng`
+- **Capturing WPA Handshakes** - Using `airodump-ng`
+- **Packet Analysis** - Analyzing traffic with Wireshark
+- **Wi-Fi Password Cracking** - Decrypting WPA handshakes using `aircrack-ng`
+
+&nbsp;
+
+### Scripting
+
+#### Bash
+- [**Automating airmon-ng**](https://github.com/blaine-geiger/automate-airmon) - Simple script to automate repetitive CLI
+
+#### Python
+- *(in progress)*
  
+&nbsp;
+&nbsp;
 
-<br>
-<br>
-
-<h2>Reach out to me:</h2>
-<a href="https://linkedin.com/in/bg" target="_blank">
+<h2>Contact:</h2>
+<a href="https://www.linkedin.com/in/blaine-geiger-999b81329/" target="_blank">
     <img align="left" alt="BG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> < LinkedIn
+</a>
 
 
 
 
 <!--
 **bgtestpage/bgtestpage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+You can click the Preview link to take a look at your changes.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
