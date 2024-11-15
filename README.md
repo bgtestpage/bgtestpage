@@ -9,9 +9,9 @@ My aim is to enter the cybersecurity field as an Intern or Junior SOC analyst. I
 ## Skills
 | Skill                                    | Project                        |
 |------------------------------------------|--------------------------------|
-| Network Configuration and Virtualization |[**Home Cybersecurity Virtual Lab**](https://github.com/bgtestpage/homelab)|
-| 
-|
+| Network Configuration and Virtualization |[**Home Cybersecurity Lab**](https://github.com/bgtestpage/homelab)|
+| Server and Network Services         |[**Docker-based Monitoring and Visualization**](https://github.com/bgtestpage/Pi5-Unbuntu-Server)|
+| Web Development|[**Services Landing and Navigation Page**](https://github.com/bgtestpage/home-network-dashboard)|
 
 
 
